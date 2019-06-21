@@ -1,6 +1,6 @@
 <template>
   <div>
-    Footer
+    版权所有@Ant-design-pro-vue
   </div>
 </template>
 
